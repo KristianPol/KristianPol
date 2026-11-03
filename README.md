@@ -1,10 +1,10 @@
-# Hi, I'm Kristian Polimac 👋
+# Hi, I'm Kristian Polimac
 
 I'm a 4th-year student at **HTBLA Leonding** in Austria. I like building things people can actually use, from small study tools for my class to a full-stack browser game with real players' scores, songs and profiles behind it.
 
 My biggest project so far is **Hit the Lights**, a free rhythm game where I lead the backend and look after design and security.
 
-## 🛠️ What I work with
+## What I work with
 
 | Area | Tools |
 |------|-------|
@@ -15,9 +15,9 @@ My biggest project so far is **Hit the Lights**, a free rhythm game where I lead
 | **Testing & tooling** | Jest, Vitest, Maven, Git |
 | **Hosting** | Render |
 
-## 🚀 Featured project
+## Featured project
 
-### 🎮 [Hit the Lights](https://github.com/KristianPol/Hit-the-Lights) · [play it at hitthelights.xyz](https://hitthelights.xyz)
+### [Hit the Lights](https://github.com/KristianPol/Hit-the-Lights) · [play it at hitthelights.xyz](https://hitthelights.xyz)
 
 A free rhythm game that runs entirely in the browser. Players upload their own songs, play falling-note charts on four lanes and compete for high scores, with no download required.
 
@@ -41,9 +41,9 @@ A free rhythm game that runs entirely in the browser. Players upload their own s
 
 **Stack:** Angular 21, TypeScript and SCSS on the frontend; Node.js and Express on the backend; Neon (serverless PostgreSQL) for data; Cloudflare R2 for storage; hosted on Render.
 
-## 📂 More projects
+## More projects
 
-### 🗺️ [EuropaMap](https://github.com/KristianPol/EuropaMap)
+### [EuropaMap](https://github.com/KristianPol/EuropaMap)
 
 A team school project with Ostap Malanyak and Oleksandr Mukhin. It started as a clickable map of Europe, where each country leads to a page with facts such as its capital and population, along with its flag, photos and a Wikipedia link.
 
@@ -51,28 +51,10 @@ We then added a web application, first planned as a productivity tool and later 
 
 **Stack:** HTML, CSS, JavaScript, Bootstrap, JSON
 
-### 💶 [Finance Flash Cards](https://github.com/KristianPol/Finance-Flash-Cards)
-
-A flash card app I built to study for our 3rd business exam. You can flip cards, filter by category, mark hard ones as difficult and see a summary at the end of each session, all with keyboard shortcuts.
-
-**Stack:** a single HTML file with no dependencies
-
-### 🔗 [HTTP URLs](https://github.com/KristianPol/http-urls)
-
-A Theoretical Informatics assignment: developing a regular expression that checks whether a given string is a valid HTTP URL.
-
-**Stack:** Java, Maven
-
-### 📄 [World Wide Web Cheat Sheet](https://github.com/KristianPol/CheatSheet)
-
-A compact reference page on the World Wide Web and the technologies behind its success.
-
-**Stack:** HTML, CSS
-
-### 🌱 Where it started
+### Where it started
 
 [First-Website](https://github.com/KristianPol/First-Website) and [ActualFirstWebsite](https://github.com/KristianPol/ActualFirstWebsite) are my first steps with HTML. I'm keeping them here as a reminder of how far things have come since then.
 
 ---
 
-📫 Want to talk about a project? [Try Hit the Lights](https://hitthelights.xyz) or open an issue on any of my repos.
+Want to talk about a project? [Try Hit the Lights](https://hitthelights.xyz) or open an issue on any of my repos.
