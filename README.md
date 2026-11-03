@@ -2,16 +2,18 @@
 
 I'm a 4th-year student at **HTBLA Leonding** in Austria. I like building things people can actually use, from small study tools for my class to a full-stack browser game with real players' scores, songs and profiles behind it.
 
+C# is my main language, and Oracle SQL is the database I've worked with most.
+
 My biggest project so far is **Hit the Lights**, a free rhythm game where I lead the backend and look after design and security.
 
 ## What I work with
 
 | Area | Tools |
 |------|-------|
-| **Languages** | TypeScript, JavaScript, Java, HTML, CSS/SCSS |
+| **Languages** | C#, TypeScript, JavaScript, Java, SQL, HTML, CSS/SCSS |
 | **Frontend** | Angular, Bootstrap |
 | **Backend** | Node.js, Express |
-| **Data & storage** | PostgreSQL (Neon), Cloudflare R2 |
+| **Data & storage** | Oracle SQL, PostgreSQL (Neon), Cloudflare R2 |
 | **Testing & tooling** | Jest, Vitest, Maven, Git |
 | **Hosting** | Render |
 
